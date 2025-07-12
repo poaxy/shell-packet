@@ -1,4 +1,4 @@
-BINARY_NAME=ssh-vpn
+BINARY_NAME=shell-packet
 
 build:
 	go build -o $(BINARY_NAME)
